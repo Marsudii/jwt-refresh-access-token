@@ -8,13 +8,11 @@ This package was created using the firebase/php-jwt package, only slightly modif
 | ---------------- | ------------------ |
 | 1.0.0            | 10                 |
 
-[<img src="https://user-images.githubusercontent.com/1801923/57975478-a7a88900-79c1-11e9-924b-d7fa742f743b.png" height="40">](https://www.patreon.com/bePatron?u=11815122)
-
 ---
 
 ## Security
 
-If you discover any security related issues, please email tymon148@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email marsudi124@gmail.com instead of using the issue tracker.
 
 ## License
 
