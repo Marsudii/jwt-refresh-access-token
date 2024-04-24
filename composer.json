@@ -14,5 +14,7 @@
   ],
   "require": {
     "firebase/php-jwt": "^6.10"
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
